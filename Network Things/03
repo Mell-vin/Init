@@ -1,0 +1,2 @@
+#lgumede: Identify the MAC address of the Wi-Fi card
+ifconfig en1 | grep ether | awk '/ether/{print $2}'

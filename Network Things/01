@@ -1,0 +1,3 @@
+#lgumede: Get list of network interface names of the machine
+
+ifconfig -l
