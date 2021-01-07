@@ -1,0 +1,3 @@
+#lgumede: What file contains the local DNS entries?
+
+ls -l /etc/hosts

@@ -1,4 +1,0 @@
-cat /var/run/resolv.conf | grep "nameserver"
-
-#lgumede: This path contains the IP address of the used DNS server.
-#lgumede: Gives list of configured DNS servers on the system that you are using.

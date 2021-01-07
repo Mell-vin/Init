@@ -1,0 +1,5 @@
+#lgumede: Identify the network devicez between your computer and the slash16.org domain
+
+traceroute slash16.org
+
+#Shows all the devicez between the MAC and slash16.org

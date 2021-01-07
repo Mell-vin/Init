@@ -1,0 +1,5 @@
+#lgumede: Thanks to the previous question and the reverse DNS find the name of your host
+
+dig -x (Ip from question 12)
+
+# you get the name of your host.

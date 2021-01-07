@@ -1,0 +1,3 @@
+#lgumede: Find the IP that was assigned to you by dhcp server
+
+ipconfig getpacket en1 | grep "server identifier"

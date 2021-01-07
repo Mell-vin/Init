@@ -1,5 +1,0 @@
-#lgumede: identify broacast address and identify all IPs which are part of the same subnet.
-ifconfig | grep broadcast | cut -d " " -f6
-
-#lgumede: gets you the subnets of that IP.
-arp -a
