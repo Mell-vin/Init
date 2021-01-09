@@ -1,0 +1,11 @@
+#lgumede: Explain how connect yourself as new user. (With graphic session and ssh session)
+
+#First create the new user:
+
+sudo adduser -m "lgumede"  
+
+#then:
+
+sudo passwd lgumede
+
+#to set new passwd then you can switch user to new account.

@@ -1,0 +1,3 @@
+#lgumede: Find the command that kills ssh service
+
+sudo service ssh stop

@@ -1,0 +1,8 @@
+#lgumede: List all services which are started at boot time and name this kind of services
+
+systemctl list-units --type=service
+
+#Note: If you're running Ubuntu, the equivalent command is:
+
+chkconfig --list
+

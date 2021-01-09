@@ -1,0 +1,5 @@
+#Find the command that add a new local user
+
+sudo useradd -m "lgumede" or sudo adduser -m "lgumede"
+
+#if you run the same command again, it will say user already exists.
