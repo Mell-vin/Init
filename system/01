@@ -1,0 +1,3 @@
+#lgumede:
+
+you can find your installed version of Debian by running "cat /etc/debian_version".

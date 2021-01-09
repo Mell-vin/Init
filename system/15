@@ -1,0 +1,5 @@
+#lgumede: Find the command that kills the background command’s processes
+
+ps -eaf
+
+sudo kill -9 "PID"

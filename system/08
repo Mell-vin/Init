@@ -1,0 +1,3 @@
+#lgumede: What file contains the RSA keys that are authorized to connect via SSH?
+
+the ".ssh/authorized_keys" contains the RSA keys that are authorized to connect via SSH.
