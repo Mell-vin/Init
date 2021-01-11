@@ -2,7 +2,9 @@
 
 Introduction subject to System and Network Administration
 
-Please note that to do this project you need to use a Mac or linux to run the Network commands and a Debian virtual machine to run the System command and the scripts.
+Please note that to do this project you will need to use a Mac or linux to run the Network commands and a Debian virtual machine to run the System command and the scripts.
+
+=> The answers below are either commands, command output or our own interpretation/understanding of command output.
 
 # Network section:
 
